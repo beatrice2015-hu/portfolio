@@ -5,3 +5,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Added .editorconfig for consistent formatting
 - Added basic retry logic for network requests
+
+## 2026-04-29
+- Noted known limitation in docs
+- Added basic usage examples to README
