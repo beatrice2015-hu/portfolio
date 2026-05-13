@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Noted known limitation in docs
 - Added basic usage examples to README
+
+## 2026-05-13
+- Added inline documentation for core functions
